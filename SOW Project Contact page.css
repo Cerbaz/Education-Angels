@@ -1,0 +1,81 @@
+.home{
+  color: white;
+  background-color: #FF69B4;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding: 6px;
+}
+
+.about{
+  color: white;
+  background-color: orange;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+.lessons{
+  color: white;
+  background-color: blue;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+.contact{
+  color: white;
+  background-color: green;
+  font-size:15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+ }
+
+.register{
+  color: white;
+  background-color: red;
+  font-size:15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+.p1{
+   color: purple;
+}
+
+
+.mail{
+  font-size: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-family: fantasy;
+  font-weight: bold;
+  color: purple;
+}
+
+.location{
+  text-align: center;
+  font-size: 20px;
+  font-family: fantasy;
+  font-weight: bold;
+  color: purple;
+}
+
+.map{
+  align-items:
+
+}

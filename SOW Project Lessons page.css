@@ -1,0 +1,111 @@
+.home{
+  color: white;
+  background-color: #FF69B4;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding: 6px;
+}
+
+.about{
+  color: white;
+  background-color: orange;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+.lessons{
+  color: white;
+  background-color: blue;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+.contact{
+  color: white;
+  background-color: green;
+  font-size:15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+ }
+
+.register{
+  color: white;
+  background-color: red;
+  font-size:15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+
+
+.language{
+  color: white;
+  background-color: pink;
+  font-size: 25px;
+  font-family: verdana;
+  position: center;
+  margin:20px;
+  width: 20%;
+  padding: 20px;
+}
+
+.math{
+  color: white;
+  background-color: orange;
+  font-size: 25px;
+  font-family: verdana;
+  position: center;
+  margin:20px;
+  width: 20%;
+  padding:20px;
+}
+
+.technology{
+  color: white;
+  background-color: blue;
+  font-size: 25px;
+  font-family: verdana;
+  position: center;
+  margin:20px;
+  width: 20%;
+  padding:20px;
+}
+
+.science{
+  color: white;
+  background-color: green;
+  font-size:25px;
+  font-family: verdana;
+  position: center;
+  margin:20px;
+  width: 20%;
+  padding:20px;
+ }
+
+
+.one{
+   color: white;
+   font-family: fantasy;
+   font-weight: bold;
+   font-size: 80px;
+   background-color: purple;
+   padding: 70px 0;
+  text-align: center;
+}

@@ -1,0 +1,105 @@
+.home{
+  color: white;
+  background-color: #FF69B4;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding: 6px;
+}
+
+.about{
+  color: white;
+  background-color: orange;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+.lessons{
+  color: white;
+  background-color: blue;
+  font-size: 15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+.contact{
+  color: white;
+  background-color: green;
+  font-size:15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+ }
+
+.register{
+  color: white;
+  background-color: red;
+  font-size:15px;
+  font-family: verdana;
+  position: center;
+  margin:6px;
+  width: 10%;
+  padding:6px;
+}
+
+
+.me{
+  font-size: 30px;
+  font-weight: bolder;
+  color: black;
+  position: center;
+  text-align: left;
+  font-family: fantasy;
+  list-style: square;
+  text-decoration: underline;
+}
+
+
+p1{
+  color: grey;
+  font-family: verdana;
+  font-weight: lighter;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.project{
+  font-size: 30px;
+  font-weight: bolder;
+  color: black;
+  position: center;
+  text-align: left;
+  font-family: fantasy;
+  list-style: square;
+  text-decoration: underline;
+}
+
+
+p2{
+  color: grey;
+  font-family: verdana;
+  font-weight: lighter;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 15px;
+}
